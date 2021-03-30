@@ -1,0 +1,27 @@
+{
+  "name": "pulse-ofr",
+  "version": "1.0.0",
+  "description": "One for all desktop app",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^11.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JACKSPARROWbts"
+  },
+  "keywords": [
+    "be",
+    "a",
+    "proudful",
+    "CODER",
+    "ever"
+  ],
+  "author": "captain ALL DEVELOPER JACKSPARROW",
+  "license": "ISC"
+}
